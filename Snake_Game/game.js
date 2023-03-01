@@ -91,8 +91,7 @@ class snakePart{
     {
         this.x=x;
         this.y=y;
-       console.log(this)
-        console.log(this.y)
+      
     }
 }
 function drawSnake()
